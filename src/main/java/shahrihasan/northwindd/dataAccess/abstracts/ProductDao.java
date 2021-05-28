@@ -6,7 +6,4 @@ import shahrihasan.northwindd.entitites.concretes.Product;
 
 public interface ProductDao extends JpaRepository<Product, Integer> {
 
-	
-	
-	
 }
